@@ -5,6 +5,8 @@ It scans for things like:
  * Unrealistic salary claims
  * Missing company information
  * Generic email domains
+
+   
 Based on these checks, it gives a basic risk indication.
 Tech Used : Python, string handling, conditional logic, regex.
 This project helped me understand how to think practically about real-world problems and structure validation logic properly.
